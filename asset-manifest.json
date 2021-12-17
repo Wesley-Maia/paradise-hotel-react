@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/paradise-hotel-react/static/css/main.073c9b0a.css",
+    "main.js": "/paradise-hotel-react/static/js/main.eb3bd13b.js",
+    "static/js/787.3d848f0e.chunk.js": "/paradise-hotel-react/static/js/787.3d848f0e.chunk.js",
+    "static/media/logo.svg": "/paradise-hotel-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/paradise-hotel-react/index.html",
+    "main.073c9b0a.css.map": "/paradise-hotel-react/static/css/main.073c9b0a.css.map",
+    "main.eb3bd13b.js.map": "/paradise-hotel-react/static/js/main.eb3bd13b.js.map",
+    "787.3d848f0e.chunk.js.map": "/paradise-hotel-react/static/js/787.3d848f0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eb3bd13b.js"
+  ]
+}
